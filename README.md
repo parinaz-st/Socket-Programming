@@ -1,15 +1,20 @@
 **Socket Programming Practice**
-This project is a simple chat application developed as part of my Computer Networks course during my B.Sc. studies. It demonstrates client-server communication using sockets in C#.
+
+This project is a simple chat application developed as part of my Computer Networks course during my B.Sc. studies. 
+It demonstrates client-server communication using sockets in C#.
 
 **Features**
 
 Client-Server Communication: Uses TCP/IP sockets for real-time message exchange.
+
 Simple UI: A Windows Forms interface for sending and receiving messages.
 
 __Technologies Used__
 
 C# for both client and server-side programming.
+
 Sockets for network communication.
+
 Windows Forms for the user interface.
 
 __How to Use__
